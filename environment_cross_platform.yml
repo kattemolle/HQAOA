@@ -1,0 +1,10 @@
+name: HQAOA
+channels:
+  - defaults
+dependencies:
+  - chainer
+  - scipy
+  - matplotlib
+  - tabulate
+  - networkx
+prefix: /opt/miniconda3/envs/HQAOA
